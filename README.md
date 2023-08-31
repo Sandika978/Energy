@@ -8,6 +8,7 @@ In the United States, wind power has emerged as a central player in this energy 
 The growth of wind energy in the United States is nothing short of remarkable. From a modest 6 billion kilowatt-hours (kWh) in the year 2000, wind power's annual electricity generation capacity soared to a staggering 380 billion kWh by 2021. This surge in wind power installations has been instrumental in reducing the carbon footprint and advancing the transition towards cleaner energy sources.
 By 2022, wind turbines accounted for 10.2% of total utility-scale electricity generation in the U.S., a testament to the sector's rapid expansion. This growth trajectory reflects the commitment of various states to embrace wind power as a viable alternative, with 19 states boasting over 1,000 MW of installed capacity. Notably, Texas, Iowa, Oklahoma, Kansas, and California have emerged as pioneers, collectively generating more than half of the nation's wind energy.
 ![max energy](https://github.com/Sandika978/Energy/assets/142215629/bc4fa8dc-00aa-498e-a934-fa17537b2891)
+
 Image: Wind power generation capacity by Texas, Iowa, Oklahoma, Kansas and Illinois.
 
 
@@ -22,5 +23,6 @@ In the broader context of U.S. electricity generation, the diversification of en
 As we stand at the intersection of technological innovation, environmental consciousness, and energy security, wind power emerges as a beacon of hope for a sustainable future. Its growth trajectory and contributions highlight the transformative potential of harnessing nature's resources to power the world, paving the way for a cleaner, greener, and more resilient energy landscape.
 
 ![wind power](https://github.com/Sandika978/Energy/assets/142215629/956c749c-ec70-464c-86a1-2208820be048)
+
 Image: Wind genertion in  the United States from year Jan 2001 to Feb 2023.
 As shown in the graph US in steping forword towrads the net zero emmisision.
