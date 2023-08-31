@@ -22,3 +22,5 @@ In the broader context of U.S. electricity generation, the diversification of en
 As we stand at the intersection of technological innovation, environmental consciousness, and energy security, wind power emerges as a beacon of hope for a sustainable future. Its growth trajectory and contributions highlight the transformative potential of harnessing nature's resources to power the world, paving the way for a cleaner, greener, and more resilient energy landscape.
 
 ![wind power](https://github.com/Sandika978/Energy/assets/142215629/956c749c-ec70-464c-86a1-2208820be048)
+Image: Wind genertion in  the United States from year Jan 2001 to Feb 2023.
+As shown in the graph US in steping forword towrads the net zero emmisision.
