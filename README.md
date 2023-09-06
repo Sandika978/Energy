@@ -1,5 +1,5 @@
 # Energy
-**Data Analysis of Wind Generation in the United States**
+**Data Analysis of Wind Power Generation in the United States**
 
 **Wind Power: A Driving Force in the Changing Landscape of Electricity Generation in United States**
 Since its inception in the 1820s and early 1830s, the fundamental principle of electricity generation, pioneered by British scientist Michael Faraday, has sparked a transformative journey that has reshaped the way the world generates power. The journey that began with a steam engine and a dynamo at Pearl Street Station in 1882 has evolved into a dynamic and diverse energy landscape powered by a variety of sources, ranging from coal and nuclear to hydroelectric, wind, solar, tidal, and geothermal energy.
